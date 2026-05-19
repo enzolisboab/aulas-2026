@@ -1,0 +1,18 @@
+body {
+  background-color: #191919;
+}
+h2 {
+  text-align: right;
+  background-color: black;
+  color: red;
+}
+h1 {
+  text-align: center;
+  color: red;
+  font-family: monospace;
+}
+p {
+  text-align: center;
+  color: white;
+  font-family: monospace;
+}
