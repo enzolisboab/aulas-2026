@@ -1,0 +1,32 @@
+body {
+  font-family: "Times New Roman", Times, serif;
+  color: #ffffff;
+}
+
+img {
+  background-color: rgb(53, 53, 53);
+  border-radius: 30px;
+}
+
+h1 {
+  color: #1e1e1e;
+  background-color: #3c5681;
+  border: 2px solid rgb(40, 40, 40);
+  border-radius: 30px;
+}
+
+h2 {
+  background-color: #535353;
+  border: 2px solid rgb(40, 40, 40);
+}
+
+figure {
+  text-align: center;
+  color: rgb(238, 0, 255);
+  background-color: rgb(53, 53, 53);
+  border: 1px solid lightgrey;
+}
+p {
+  color: #000000;
+  border-bottom: 2px solid rgb(40, 40, 40);
+}
